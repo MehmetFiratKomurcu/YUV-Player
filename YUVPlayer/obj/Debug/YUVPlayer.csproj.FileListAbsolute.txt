@@ -1,0 +1,15 @@
+D:\csharp_projects\YUVPlayer\YUVPlayer\bin\Debug\YUVPlayer.exe.config
+D:\csharp_projects\YUVPlayer\YUVPlayer\bin\Debug\YUVPlayer.exe
+D:\csharp_projects\YUVPlayer\YUVPlayer\bin\Debug\YUVPlayer.pdb
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.csprojAssemblyReference.cache
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.Form1.resources
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.Properties.Resources.resources
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.csproj.GenerateResource.cache
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.csproj.CoreCompileInputs.cache
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.exe
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.pdb
+D:\csharp_projects\YUVPlayer\YUVPlayer\bin\Debug\Interop.WMPLib.dll
+D:\csharp_projects\YUVPlayer\YUVPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\Interop.WMPLib.dll
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\csharp_projects\YUVPlayer\YUVPlayer\obj\Debug\YUVPlayer.csproj.ResolveComReference.cache
